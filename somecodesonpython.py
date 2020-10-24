@@ -13,3 +13,19 @@ elif x+y+z<=35:
     print("you are even young man")
 else:
     print("you are old")
+    
+    
+
+# the bellow code of multiplication(NAMOTA) is made by myself 
+#But even also this code is not perfect at all,
+#many things are missing here
+
+
+i=0
+while i<=9:
+	i=i+1
+	j=1
+	while j<=10:
+		gun=i*j
+		j=j+1
+		print( gun)

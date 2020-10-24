@@ -29,3 +29,17 @@ while i<=9:
 		gun=i*j
 		j=j+1
 		print( gun)
+
+		
+		
+#Now i will try a very very general a function
+#look bellow
+def Function_sum():
+    print("Say hello man")
+    a,b=(45,32)
+    sum=a+b
+    print(sum)
+
+Function_sum()
+a,b=(31,68)
+Function_sum()

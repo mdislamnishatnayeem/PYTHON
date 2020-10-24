@@ -59,3 +59,38 @@ def sammm(digit1=20,digit2=45):#here 20 and 45 amout is set as
 
 sammm(65345,28372)#here the defalt value doesnt need to work
 sammm()#here the defalt value will work
+
+
+## more codes on function 
+"""
+def wishCARD(name,wish="Happy birthday"):
+    print(wish,name)
+wishCARD("Nayeem",)
+wishCARD("NAYEEM")
+wishCARD("Nayeem","Happy friendship day")
+print("\u2764\ufe0f")
+
+"""
+var=10
+def summe():
+    print(var)
+summe()
+def change():
+    global var #here we declare that var is a global variable, so let us use it everywhere
+               #boys! as we wish.
+    var=var+1  #output=11 !!we cant change it like this,error will show
+    print(var)
+    loc=var   #we maked a copy of 'var' using 'loc' and now we
+              # can do everything with 'loc' ,there will be no problem
+    loc=loc+1 #output=12 !! like this
+    print(loc)#here 12 will be print(11+1=12)
+change()
+print(var)  #output=11 ...when 'var' was used as a global variable !at that 
+            # time we changed its value
+
+def tryy():
+    global var  # to change the value of var permanently we have to first declare it
+               #as a 'global var/any variable',,,to change it and work with it
+    var=var+4
+    print(var)  #output=15!!!!!(11+4)=15
+tryy()

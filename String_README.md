@@ -8,12 +8,12 @@
 ## Here is the code bellow:
 
 #Welcome inputer
-name=input()
-print("Hello "+name)
-#-----------------------------------
+। name=input()
+। print("Hello "+name)
+। #-----------------------------------
 
-#Use of capitalize()
-#capitalize only the first letter of a sentence or a word
-man="Nayeem Islam Nisaht"
-cap=man.capitalize()
-print(cap)
+। #Use of capitalize()
+। #capitalize only the first letter of a sentence or a word
+। man="Nayeem Islam Nisaht"
+। cap=man.capitalize()
+। print(cap)

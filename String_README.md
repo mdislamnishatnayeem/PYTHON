@@ -7,13 +7,13 @@
 ![Screenshot_20201114-002949](https://user-images.githubusercontent.com/69844284/99107902-c1577a80-2610-11eb-9ccd-83f5cb2b8b00.png)
 ## Here is the code bellow:
 
-#Welcome inputer
-। name=input()
-। print("Hello "+name)
-। #-----------------------------------
+@ #Welcome inputer
+ name=input()
+ print("Hello "+name)
+ #-----------------------------------
 
-। #Use of capitalize()
-। #capitalize only the first letter of a sentence or a word
-। man="Nayeem Islam Nisaht"
-। cap=man.capitalize()
-। print(cap)
+ #Use of capitalize()
+ #capitalize only the first letter of a sentence or a word
+ man="Nayeem Islam Nisaht"
+ cap=man.capitalize()
+ print(cap)

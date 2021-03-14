@@ -7,3 +7,5 @@
 ## পাইথনের Bitwise Xor(^) জিনিসটা কোথায় ব্যবহৃত করা হয় জিনিসটা কি জানতে হলে নিচের ছবি দুটো দেখো:
 ![Screenshot_20210314-151450_1](https://user-images.githubusercontent.com/69844284/111063368-49bf2c80-84d8-11eb-9537-81ca2a43bf26.png)
 ![Screenshot_20210314-151504_1](https://user-images.githubusercontent.com/69844284/111063370-4b88f000-84d8-11eb-8c39-b082ab21aac0.png)
+## পাইথনের Bitwise Not(~) জিনিসটা কি জানতে হলে নিচের ছবিটি দেখো:
+![Screenshot_20210314-151941_1](https://user-images.githubusercontent.com/69844284/111063472-d79b1780-84d8-11eb-90a8-2b529d157e63.png)

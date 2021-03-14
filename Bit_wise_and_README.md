@@ -9,3 +9,7 @@
 ![Screenshot_20210314-151504_1](https://user-images.githubusercontent.com/69844284/111063370-4b88f000-84d8-11eb-8c39-b082ab21aac0.png)
 ## পাইথনের Bitwise Not(~) জিনিসটা কি জানতে হলে নিচের ছবিটি দেখো:
 ![Screenshot_20210314-151941_1](https://user-images.githubusercontent.com/69844284/111063472-d79b1780-84d8-11eb-90a8-2b529d157e63.png)
+## পাইথনের Bitwise Lestshit (<<) জানতে হলে নিচের চিত্রটি দেখো:
+![Screenshot_20210314-152229_1](https://user-images.githubusercontent.com/69844284/111063531-58f2aa00-84d9-11eb-9de5-c74d7e6f9dff.png)
+## পাইথনের Bitwise Rightshit (>>) জানতে হলে নিচের চিত্রটি দেখো:
+![Screenshot_20210314-152241_1](https://user-images.githubusercontent.com/69844284/111063533-5b550400-84d9-11eb-98df-8866b307d130.png)

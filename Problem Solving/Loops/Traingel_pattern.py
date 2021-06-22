@@ -18,3 +18,21 @@ while(i<=num):
 	k=k+1
 	i+=1
 	print()
+
+"""এখন আমি যদি চাই Traingel টিউনটা ভাবে ডিজাইন হবে।
+যেমন:
+
+*****
+****
+***
+**
+*
+তাহলে নিচের কোডটি লিখতে হতো
+
+"""
+num=int(input("Input the number:"))
+for i in range(-1,num):
+    for j in range(-1,num):
+        	print('*',end='')
+    num=num-1
+    print()

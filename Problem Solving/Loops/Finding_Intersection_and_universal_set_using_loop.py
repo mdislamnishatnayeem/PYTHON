@@ -11,14 +11,14 @@ A = {1, 2, 3, 4,47,27,85,76,5,5}
 B = {5,6, 7,5,5 ,8}
 C=[]
 D=[]
-#intersection সেটের অংশ বা আলগরিদম:
+#intersection সেটে বের করার বা হিসাব করার অংশ বা আলগরিদম:
 for i in A:
     for j in B:
         if(i==j):
            C.append(i)
    
 
-# universal set এর অংশ বা অ্যালগরিদম:
+# universal set বের করার বা হিসাব করা এর অংশ বা অ্যালগরিদম:
 for x in A:
     if(x not in B):
         D.append(x)

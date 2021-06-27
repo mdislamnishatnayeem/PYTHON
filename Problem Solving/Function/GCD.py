@@ -25,4 +25,4 @@ print(gcd(a, b))
     _____
      0
  The GCD:4
-""'
+"""
